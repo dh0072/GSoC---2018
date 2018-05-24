@@ -1,3 +1,4 @@
+```
 May 16
   Topic discussed:
     Introduction about two tickets I am going to work on: RTEMS Release Notes Generator & Automate Conversion of Newlib Markup to Sphinx
@@ -12,3 +13,4 @@ May 23
     Generated the current version of release report from Trac
   Next:
     Fix problems like formatting issues on the current generated report
+```
