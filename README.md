@@ -14,4 +14,4 @@ I will work on two tickets:
 
 2. RTEMS POSIX User Guide Generator (ticket: #3333): https://devel.rtems.org/ticket/3333
 
-For more information, please go to my blog: https://danxuehuang.blogspot.com/
+Please go to my blog for more information: https://danxuehuang.blogspot.com/
