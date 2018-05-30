@@ -1,4 +1,3 @@
-```
 import urllib.request
 from bs4 import BeautifulSoup
 
@@ -25,4 +24,3 @@ xianggege = newtemp.find(name="div", attrs={"id": "content", "class": "milestone
 
 summary = bs.find(name="span", attrs={"class": "summary"})
 #print(summary.string)
-```
