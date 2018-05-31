@@ -19,7 +19,10 @@ Please go to my blog for more information: https://danxuehuang.blogspot.com/
 
 
 
-Week 1: test
+# Week 1: test
+```
+def say_hi():
+    print("hi")
+```
 
-
-Week 2: test
+# Week 2: test
