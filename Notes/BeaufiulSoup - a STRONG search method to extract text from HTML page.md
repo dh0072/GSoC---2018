@@ -32,7 +32,7 @@ blog_title = blog.find(name="div", attrs={"class": "titlewrapper"}).find(name="h
 print(blog_title)
 # print the plain text of data we need
 print(blog_title.string)
-```python
+```
 
 Boom! The output is:
 ```python
@@ -45,4 +45,4 @@ RTEMS Release Notes Generator & RTEMS POSIX User Guide Generator
 
 Process finished with exit code 0
 
-```python
+```
