@@ -2,7 +2,7 @@ I got stuck for writing HTML parser for a while until I found a search method be
 
 I wrote a python class as to show how to use BeautifulSoup to exact needed data, my blog is used as an example.
 
-```
+```python
 # This file is created by Danxue(Dannie) Huang, as an example of using BeautifulSoup
 # The goal of this example is to get specified data from a website
 # I use my blog as an example, let's say, I try to get the title of my blog
@@ -32,10 +32,10 @@ blog_title = blog.find(name="div", attrs={"class": "titlewrapper"}).find(name="h
 print(blog_title)
 # print the plain text of data we need
 print(blog_title.string)
-```
+```python
 
 Boom! The output is:
-```
+```python
 <h1 class="title">
 RTEMS Release Notes Generator &amp; RTEMS POSIX User Guide Generator
 </h1>
@@ -45,4 +45,4 @@ RTEMS Release Notes Generator & RTEMS POSIX User Guide Generator
 
 Process finished with exit code 0
 
-```
+```python
