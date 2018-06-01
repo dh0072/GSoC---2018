@@ -34,4 +34,15 @@ print(blog_title)
 print(blog_title.string)
 ```
 
-Boom! Screenshot of output:
+Boom! The output is:
+```
+<h1 class="title">
+RTEMS Release Notes Generator &amp; RTEMS POSIX User Guide Generator
+</h1>
+
+RTEMS Release Notes Generator & RTEMS POSIX User Guide Generator
+
+
+Process finished with exit code 0
+
+```
