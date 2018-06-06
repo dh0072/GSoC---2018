@@ -25,4 +25,15 @@ May 30, 2018
     Solve problems in writing Python class for getting data
     Clean up codes
     Get mentors to review codes and finally merge codes
+June 6
+  Topic discussed:
+    Phase 1 evaluation
+    Code review
+  Current progress:
+    Finish writing Python class for getting data from a milestone’s page and a ticket’s page
+    Set up test cases
+    Add logging to show progress
+  Next:
+    Use Sphnix to create HTML and PDF output
+    Update blog about using logging instead of print to output a message
 ```
