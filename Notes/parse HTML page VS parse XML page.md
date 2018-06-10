@@ -6,9 +6,7 @@ In general, there are two reasons for me to parse XML in RSS feed using XML pars
 
 1. It is more stable to parse XML than to parse HTML. The webpage we are scraping might change frequently, if we extract data from HTML, our code might no longer work once the web template is changed. I use BeautifulSoup before to extract data from HTML. To use BS, I extract data by finding data in each tag visually. For example, I extract a comment within <comment> blahblahblah <,comment>, however, once the web template is changed, this comment "blahblahblah" might be stored in a new tag as <others> blahblahblah </others>, if so, my codes does not work anymore. We do not need to worry about this problem parsing XML in RSS feed since RSS feed is a stable file format.
 
-2. It is more efficient. After deciding to parse XML but not to parse HTML, I need a tool to help me. XML parser in the standard python would be the best choice. It is efficient and user friendly. For example, I need to parse the yellow section of #2988 ticket information on:
-
-https://devel.rtems.org/ticket/2988
+2. It is more efficient. After deciding to parse XML but not to parse HTML, I need a tool to help me. XML parser in the standard python would be the best choice. It is efficient and user friendly. For example, I need to parse the yellow section of #2988 ticket information on: https://devel.rtems.org/ticket/2988
 
 Code is short:
 
