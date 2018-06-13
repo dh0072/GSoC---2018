@@ -36,4 +36,17 @@ June 6
   Next:
     Use Sphnix to create HTML and PDF output
     Update blog about using logging instead of print to output a message
+    June 13
+June 13
+  Topic discussed:
+    Phase 1 evaluation
+    Phase 2 work period
+  Current progress:
+    Tested the program and fixed some small bugs
+    Solved code consistency problem like to use lowercase other than camelcase
+    Used built-in python package instead of external python package
+  Next:
+    Finish code cleanup
+    Convert the output to Markdown
+    Package code and then merge it to public RTEMS repo
 ```
