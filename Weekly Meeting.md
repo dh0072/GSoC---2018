@@ -49,4 +49,11 @@ June 13
     Finish code cleanup
     Convert the output to Markdown
     Package code and then merge it to public RTEMS repo
+June 20
+   Current progress:
+    Solved code consistency problem following instructions
+    Finished code cleanup
+  Next:
+    Convert the output to Markdown
+    Convert the output to HTML and PDF
 ```
