@@ -56,4 +56,10 @@ June 20
   Next:
     Convert the output to Markdown
     Convert the output to HTML and PDF
+June 27
+   Current progress:
+     Converted the output to Markdown
+   Next:
+     Decide final version of Markdown
+     Convert the Markdown output to HTML and PDF
 ```
