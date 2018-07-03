@@ -62,4 +62,11 @@ June 27
    Next:
      Decide final version of Markdown
      Convert the Markdown output to HTML and PDF
+July 3
+  Current progress:
+    Generated the final version of release notes in Markdown
+  Next:
+    Set the width of release notes in A4 size
+    Merge code to rtems-tool
+    Start the second project
 ```
