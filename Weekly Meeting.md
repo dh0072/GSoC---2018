@@ -69,4 +69,12 @@ July 3
     Set the width of release notes in A4 size
     Merge code to rtems-tool
     Start the second project
+July 11
+  Current progress:
+    Generated Markdown version of release notes supported by Python 2 and Python 3
+    Did research on Newlib
+  Next:
+    Set the width of release notes in standard size
+    Merge code of release notes to rtems-tool
+    Work on conversion of Newlib to Sphinx
 ```
