@@ -77,4 +77,10 @@ July 11
     Set the width of release notes in standard size
     Merge code of release notes to rtems-tool
     Work on conversion of Newlib to Sphinx
+July 18
+  Current progress:
+    Fixed problem for release notes to fit in A4 size
+  Next:
+    Merge code of release notes to rtems-tree
+    Work on conversion of Newlib Markup to Sphinx
 ```
