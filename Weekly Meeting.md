@@ -83,4 +83,10 @@ July 18
   Next:
     Merge code of release notes to rtems-tree
     Work on conversion of Newlib Markup to Sphinx
+July 25
+  Current progress:
+    Tested Newlib files by using RST editor
+  Next:
+    Fix bugs for makedocbook.py
+    Transform .c files to .rst files
 ```
