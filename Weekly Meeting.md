@@ -89,4 +89,9 @@ July 25
   Next:
     Fix bugs for makedocbook.py
     Transform .c files to .rst files
+August 1
+  Current progress:
+    Generated initial implementation commit of converting newlib markup to rst
+  Next:
+    Prepare for final submission
 ```
