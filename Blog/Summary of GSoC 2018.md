@@ -5,10 +5,13 @@ In this summer, I work on two projects:
 It is a fruitful summer, let’s take a look at what I have done! 😊
 
 First project: RTEMS POSIX User Guide Generator (ticket: #3333)
+
 Ticket’s link: https://devel.rtems.org/ticket/3314
 
 My Github repository: https://github.com/dh0072/ReleaseNotesGenerator
+
 Goal: This project aims to automatically create the RTEMS release notes for a release from the Trac data by using XML parser (Python)
+
 Completed tasks:
 1. Provided a command “python2 release_notes.py --milestone_id XXX” to directly generate a release notes in Markdown format from Trac
 2. Generated Markdown version of release notes “tickets.md”
@@ -19,10 +22,15 @@ Completed tasks:
 7. Calculated the tickets’ statistics for the given milestone
 
 Second project: RTEMS POSIX User Guide Generator (ticket: #3333)
+
 Ticket’s link: https://devel.rtems.org/ticket/3333
+
 My Github repository: https://github.com/dh0072/NewlibMarkup2SphinxConverter
+
 Patch’s link: https://github.com/dh0072/GSoC2018GithubIO/blob/master/makedoc2rst_patch.md
+
 Goal: This project aims to automatically convert Newlib markup to Sphinx output and integrate with POSIX users guide
+
 Completed tasks:
 1. Created Command Line Interface (Python argument parser) to specify path of C source file and path of destination rst markup file
 2. Provided rst utilities to register commands (FUNCTION, INDEX, SYNOPSYS, etc) and their corresponding processors methods
