@@ -6,6 +6,7 @@ It is a fruitful summer, let’s take a look at what I have done! 😊
 
 First project: RTEMS POSIX User Guide Generator (ticket: #3333)
 Ticket’s link: https://devel.rtems.org/ticket/3314
+
 My Github repository: https://github.com/dh0072/ReleaseNotesGenerator
 Goal: This project aims to automatically create the RTEMS release notes for a release from the Trac data by using XML parser (Python)
 Completed tasks:
