@@ -1,4 +1,5 @@
 Summary:
+
 In this summer, I work on two sub-projects for RTEMS Project:
 1. RTEMS Release Notes Generator (ticket: #3314)
 Ticket’s link: https://devel.rtems.org/ticket/3314
@@ -16,8 +17,10 @@ Introduction: RTEMS uses the Newlib C Library for a significant portion of its P
 
 
 Details:
+
 First project: RTEMS POSIX User Guide Generator (ticket: #3333)
 Completed tasks:
+
 1. Provided a command “python2 release_notes.py --milestone_id XXX” to directly generate a release notes in Markdown format from Trac
 2. Generated Markdown version of release notes “tickets.md”
 3. Created a python class “unicode_dict_reader.py” to make the program be compatible with both Python 2.7 and Python 3.6 
@@ -29,6 +32,7 @@ Completed tasks:
 
 Second project: RTEMS POSIX User Guide Generator (ticket: #3333)
 Completed tasks:
+
 1. Created Command Line Interface (Python argument parser) to specify path of C source file and path of destination rst markup file
 2. Provided rst utilities to register commands (FUNCTION, INDEX, SYNOPSYS, etc) and their corresponding processors methods
 3. Created class (makedoc2rst) to parse C-style block comments with makedoc format in C source file with Regular Expression matching
