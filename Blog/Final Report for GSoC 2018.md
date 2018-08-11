@@ -1,18 +1,25 @@
 Summary:
 
 In this summer, I work on two sub-projects for RTEMS Project:
+
 1. RTEMS Release Notes Generator (ticket: #3314)
 Ticket’s link: https://devel.rtems.org/ticket/3314
+
 Check all the code for this project in this Github repository:
 https://github.com/dh0072/ReleaseNotesGenerator
+
 Introduction: This project aims to automatically create the RTEMS release notes for a release from the Trac data by using XML parser (Python). Since all changes on a release branch must have a ticket, the ticket is assigned the Version and Milestone. Therefore, web pages are converted to a PDF as the release notes.
 
 
 2. RTEMS POSIX User Guide Generator (ticket: #3333)
+
 Ticket’s link: https://devel.rtems.org/ticket/3333
+
 Check all the code for this project in this Github repository:
 https://github.com/dh0072/NewlibMarkup2SphinxConverter
+
 Patch’s link: https://github.com/dh0072/GSoC2018GithubIO/blob/master/makedoc2rst_patch.md
+
 Introduction: RTEMS uses the Newlib C Library for a significant portion of its POSIX support. Currently, the RTEMS POSIX Users Guide will not provide documentation for a method not based on Newlib's. Therefore, this project aims to automatically convert Newlib markup to Sphinx output and integrate with POSIX users guide. 
 
 
