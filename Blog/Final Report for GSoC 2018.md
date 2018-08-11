@@ -19,6 +19,7 @@ Introduction: RTEMS uses the Newlib C Library for a significant portion of its P
 Details:
 
 First project: RTEMS POSIX User Guide Generator (ticket: #3333)
+
 Completed tasks:
 
 1. Provided a command “python2 release_notes.py --milestone_id XXX” to directly generate a release notes in Markdown format from Trac
@@ -31,6 +32,7 @@ Completed tasks:
 
 
 Second project: RTEMS POSIX User Guide Generator (ticket: #3333)
+
 Completed tasks:
 
 1. Created Command Line Interface (Python argument parser) to specify path of C source file and path of destination rst markup file
