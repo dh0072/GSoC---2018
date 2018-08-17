@@ -21,7 +21,8 @@ This project aims to automatically create the RTEMS release notes for a release 
 https://devel.rtems.org/ticket/3333
 ### Check all the code for this project in this Github repository:
 https://github.com/dh0072/NewlibMarkup2SphinxConverter
-### Patch’s link: https://github.com/dh0072/GSoC2018GithubIO/blob/master/makedoc2rst_patch.md
+### Patch’s link:
+https://github.com/dh0072/GSoC2018GithubIO/blob/master/makedoc2rst_patch.md
 ### Introduction: 
 RTEMS uses the Newlib C Library for a significant portion of its POSIX support. Currently, the RTEMS POSIX Users Guide will not provide documentation for a method not based on Newlib's. Therefore, this project aims to automatically convert Newlib markup to Sphinx output and integrate with POSIX users guide. 
 ### Details for Completed tasks:
